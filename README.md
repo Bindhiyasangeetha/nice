@@ -242,4 +242,5 @@ All commands are run from the root of the project, from a terminal:
 "# new" 
 #   n e w  
  #   n e w  
+ #   n i c e  
  
